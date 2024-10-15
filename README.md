@@ -9,27 +9,27 @@ La estructura del proyecto es la siguiente:
 
 conversor/
 
-├── com/
+├──  com/
 
-│   └── alura/
+│     └──   alura/
 
-│       └── conversor/
+│         └──   conversor/
 
-│           ├── excepcion/
+│             ├──   excepcion/
 
-│           │   └── ConversionException.java
+│             │   └──   ConversionException.java
 
-│           ├── calculos/
+│             ├──   calculos/
 
-│           │   ├── Conversor.java
+│             │   ├──   Conversor.java
 
-│           │   ├── ConversorMoneda.java
+│             │   ├──   ConversorMoneda.java
 
-│           └── principal/
+│             └──   principal/
 
-│               └── Main.java
+│                 └──   Main.java
 
-└── README.md
+└──   README.md
 
 
 
