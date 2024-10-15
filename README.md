@@ -77,6 +77,8 @@ Permitir que el usuario seleccione diferentes conversiones de divisas basadas en
    ```bash
    git clone https://github.com/tu_usuario/conversor.git
 
+   Ejemplo en función:
+
  ***************************
 1. Dólar USA --> Peso Colombiano
 2. Dólar USA --> Real Brasileño
