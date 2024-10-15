@@ -8,17 +8,29 @@ El programa está diseñado para ser fácil de usar y puede manejar múltiples c
 La estructura del proyecto es la siguiente:
 
 conversor/
+
 ├── com/
+
 │   └── alura/
+
 │       └── conversor/
+
 │           ├── excepcion/
+
 │           │   └── ConversionException.java
+
 │           ├── calculos/
+
 │           │   ├── Conversor.java
+
 │           │   ├── ConversorMoneda.java
+
 │           └── principal/
+
 │               └── Main.java
+
 └── README.md
+
 
 
 ### Descripción de los Componentes
