@@ -1,4 +1,4 @@
-package calculos;
+package src.calculos;
 
 
 public abstract class Conversor {

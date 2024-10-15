@@ -1,4 +1,4 @@
-package excepcion;  // Declara el paquete donde se encuentra la clase ConversionException
+package src.excepcion;  // Declara el paquete donde se encuentra la clase ConversionException
 
 // Clase ConversionException que extiende la clase Exception
 public class ConversionException extends Exception {

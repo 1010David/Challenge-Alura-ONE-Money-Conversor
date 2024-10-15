@@ -1,6 +1,6 @@
-package principal;  // Declara el paquete principal donde se encuentra esta clase
+package src.principal;  // Declara el paquete principal donde se encuentra esta clase
 
-import calculos.ConversorMoneda;  // Importa la clase ConversorMoneda del paquete calculos
+import src.calculos.ConversorMoneda;
 import java.util.Scanner;  // Importa la clase Scanner para la entrada de datos del usuario
 
 public class Main {
