@@ -7,29 +7,22 @@ El programa está diseñado para ser fácil de usar y puede manejar múltiples c
 ## Estructura del Proyecto
 La estructura del proyecto es la siguiente:
 
-conversor/
+ChallengeAluraOneMoneyConversor/
 
-├──  com/
+├──   .idea/              # Configuración del proyecto en IntelliJ (ignorar en la mayoría de los casos)
 
-│     └──   alura/
+├──   out/                # Archivos compilados (puedes ignorar esta carpeta o agregarla al .gitignore)
 
-│         └──   conversor/
+├──   src/                # Directorio de código fuente
 
-│             ├──   excepcion/
+│     ├──   calculos/       # Lógica de conversión
 
-│             │   └──   ConversionException.java
+│     ├──   excepcion/      # Excepciones personalizadas
 
-│             ├──   calculos/
+│     └──   principal/      # Clase principal con el main()
 
-│             │   ├──   Conversor.java
+└──   README.md           # Documentación del proyecto
 
-│             │   ├──   ConversorMoneda.java
-
-│             └──   principal/
-
-│                 └──   Main.java
-
-└──   README.md
 
 
 
