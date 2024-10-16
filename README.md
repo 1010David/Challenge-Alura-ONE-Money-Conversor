@@ -9,19 +9,19 @@ La estructura del proyecto es la siguiente:
 
 ChallengeAluraOneMoneyConversor/
 
-├──   .idea/              # Configuración del proyecto en IntelliJ (ignorar en la mayoría de los casos)
+├──   .idea/                  # Configuración del proyecto en IntelliJ (ignorar en la mayoría de los casos)
 
-├──   out/                # Archivos compilados (puedes ignorar esta carpeta o agregarla al .gitignore)
+├──   out/                   # Archivos compilados (puedes ignorar esta carpeta o agregarla al .gitignore)
 
-├──   src/                # Directorio de código fuente
+├──   src/                   # Directorio de código fuente
 
-│     ├──   calculos/       # Lógica de conversión
+│     ├──   calculos/          # Lógica de conversión
 
-│     ├──   excepcion/      # Excepciones personalizadas
+│     ├──   excepcion/         # Excepciones personalizadas
 
-│     └──   principal/      # Clase principal con el main()
+│     └──   principal/         # Clase principal con el main()
 
-└──   README.md           # Documentación del proyecto
+└──   README.md              # Documentación del proyecto
 
 
 
